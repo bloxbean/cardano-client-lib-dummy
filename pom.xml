@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.bloxbean.cardano</groupId>
   <artifactId>cardano-client-lib</artifactId>
-  <version>0.1.3-beta</version>
+  <version>0.3.0</version>
   <name>Cardano Client Library</name>
   <description>Cardano Client Library for Java</description>
   <url>https://github.com/bloxbean/cardano-client-lib</url>
